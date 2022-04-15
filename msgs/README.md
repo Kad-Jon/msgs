@@ -1,0 +1,1 @@
+Crate which provides minimal actor model representation for all environments.

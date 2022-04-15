@@ -1,0 +1,2 @@
+[workspace]
+members = ["msgs", "msgs_alloc", "msgs_std"]
